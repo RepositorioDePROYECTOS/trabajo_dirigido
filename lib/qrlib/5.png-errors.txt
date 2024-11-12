@@ -1,0 +1,102 @@
+2017-08-19 19:08:16: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-19 19:10:19: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\frame_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_0\mask_45_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_1\mask_45_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_2\mask_45_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_3\mask_45_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_4\mask_45_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_5\mask_45_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_6\mask_45_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_7\mask_45_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-22 01:07:28: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\farmacia\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\farmacia\lib\qrlib\qrmask.php</b> on line <b>155</b><br />

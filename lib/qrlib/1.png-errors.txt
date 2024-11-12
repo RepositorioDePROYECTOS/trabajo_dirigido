@@ -1,0 +1,442 @@
+2017-08-25 12:55:51: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 12:56:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 12:57:27: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 12:58:00: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 12:59:07: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:01:21: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:01:49: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:07:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_37_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_37_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_37_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_37_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_37_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_37_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_37_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_37_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:10:14: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_37_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_37_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_37_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_37_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_37_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_37_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_37_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_37_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:12:14: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_37_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_37_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_37_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_37_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_37_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_37_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_37_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_37_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:12:23: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_37_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_37_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_37_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_37_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_37_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_37_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_37_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_37_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-08-25 13:14:40: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_41_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_41_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_41_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_41_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_41_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_41_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_41_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_41_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+2017-09-26 16:37:24: <br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\frame_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_0\mask_45_0.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_1\mask_45_1.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_2\mask_45_2.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_3\mask_45_3.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_4\mask_45_4.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_5\mask_45_5.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_6\mask_45_6.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampplite\htdocs\boliche\lib\qrlib\cache\mask_7\mask_45_7.dat) [<a href='function.file-put-contents'>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>C:\xampplite\htdocs\boliche\lib\qrlib\qrmask.php</b> on line <b>155</b><br />

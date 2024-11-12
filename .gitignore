@@ -1,0 +1,18 @@
+## Carpetas de los Documentos
+/documents/
+/archivo/
+/files/hoja_vida
+/files/memorandun
+/files/comunicacion_interna
+/files/cursos
+/files/experiencia_laboral
+/files/otros_documentos
+/files/contratos
+/files/afiliaciones
+/files/documentos_personales
+
+## Librerias
+/lib/html2pdf/_tcpdf_5.0.002/cache
+
+## Archivos de conexion
+/modelo/conexion.php

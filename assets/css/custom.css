@@ -1,0 +1,225 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	color: #333;
+}
+
+label.error {
+  font-weight: 700;
+  font-size: 10px;
+  background: #DA202C;
+  color: #fff;
+  position: absolute;
+  bottom: 18px;
+  right: 7px;
+  display: block;
+  line-height: 20px;
+  padding: 0 5px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+.btn
+{
+    margin-bottom: 4px;
+}
+
+.table thead th
+{
+    text-align: center;
+}
+
+#top-datos
+{
+    /*
+    background: #f5f5f5; 
+    border-bottom: solid 1px #f0f0f0; 
+    */
+    background: #404856;
+    border-bottom: solid 1px #f0f0f0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+#top-datos a
+{
+    color: #fff;
+}
+
+.menu-icon
+{
+    border: solid 1px #EAEAEA !important;
+    color: #EAEAEA !important;
+}
+
+.logo-env
+{
+    background: #404856;    
+}
+
+.neon-loading-bar span {
+    background: #EAEAEA;
+}
+
+.table-responsive
+{
+    
+    overflow-x: auto;
+    
+}
+
+.panel-title
+{
+    text-transform: uppercase;
+}
+
+.decimales, .enteros, .ufv
+{
+    text-align: right;
+}
+
+.panel-academico
+{
+    border-color: #0678C4;
+}
+
+.bg-academico
+{
+    background: #0678C4;
+    color: #fff;
+}
+
+#table-1 td a, #table-1 th a
+{
+    text-transform: none;
+}
+
+#table-1 td, #table-1 th
+{
+    text-transform: uppercase; 
+    font-size: 11px;
+}
+
+#table td a, #table th a
+{
+    text-transform: none;
+}
+
+#table td, #table th
+{
+    text-transform: uppercase; 
+    font-size: 11px;
+}
+/* autocomplete */
+.ui-widget-content{
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #ccc;
+}
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus {
+	border: 1px solid #cdd5da;
+	background: #404856 url(images/ui-bg_highlight-hard_100_f6f6f6_1x100.png) 50% 50% repeat-x;
+	font-weight: bold;
+	color: #f0f0f0;
+}
+
+.bg-oferta{
+    background: #FFFFAA;
+}
+
+#contenedor{
+    position: relative;    
+}
+
+#modal_venta{
+    display: none;
+    z-index: 9999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    /*margin-top: 50px;
+    margin-left: 280px;*/
+    
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 10px 20px;    
+    overflow-y: auto;
+}
+
+#venta_body{
+    padding: 20px 10px;
+}
+
+.carta img, .opcion img{
+    border-radius: 12px;
+}
+
+a.active img{
+    border: solid 6px #CC1FD3;
+    box-shadow: 1px 1px 5px #222;
+}
+
+.div_agregar{
+    padding: 20px 0px;
+    margin: 2px;
+    border-radius: 4px;
+    background: #f0f0f0;
+    overflow-y: auto;
+    z-index: 99999;
+}
+ 
+select:focus, input:focus{
+    background: #BBE7FD;
+    color: #111;
+}
+
+label.control-label{
+    color: #444;
+    font-weight: bold;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #444 !important;
+  opacity: 0.8; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #444;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #444;
+}
+
+table.table-bordered thead tr th{
+    color: #fff;
+    background: #21a9e1;
+    vertical-align: middle;
+}
+
+.bg-transporte{
+    background: #1157AD !important;
+    color: #fff;
+}
+
+.bg-red{
+    background: #FFAAAA !important;
+}
+
+.table-cuentas td{
+    padding: 2px 4px !important;
+}
+
+textarea.uppercase{
+    text-transform: uppercase;
+}

@@ -1,0 +1,132 @@
+<?php
+
+	include("modelo/solicitud_material.php");
+
+
+    $solicitud_material = new solicitud_material();
+    $registros = $bd->Consulta("SELECT * FROM solicitud_material s 
+    INNER JOIN usuario u on u.id_usuario=s.id_usuario 
+    INNER JOIN trabajador t on t.id_trabajador=u.id_trabajador 
+    where s.objetivo_contratacion = 'ANPE'
+    AND s.estado_solicitud_material IN ('APROBADO', 'COMPRADO') 
+    ORDER BY s.nro_solicitud_material DESC");  
+?>
+<h2>Lista de Solicitudes de Material Aprobados o Comprados</h2>
+<?php if($_SESSION[nivel] != 'ALMACENERO'){ ?>
+<a href="?mod=solicitud_material&pag=lista_solicitud_material_ampe" class="btn btn-warning btn-icon" style="float: right;">
+        Solicitados<i class="entypo-eye"></i>
+</a>
+<?php } ?>
+
+<?php if($_SESSION[nivel] == 'ALMACENERO' || $_SESSION[nivel] == 'GERENTE ADMINISTRATIVO'){ ?>
+<a href="?mod=solicitud_material&pag=lista_solicitud_material_despachado_ampe" class="btn btn-primary btn-icon" style="float: right;margin-right: 5px;">
+        Despachados<i class="entypo-eye"></i>
+</a>
+<a href="?mod=solicitud_material&pag=lista_solicitud_material_sin_existencia_ampe" class="btn btn-orange btn-icon" style="float: right;margin-right: 5px;">
+        Sin Existencia<i class="entypo-eye"></i>
+</a>
+<?php } ?>
+<br><br>
+<table class="table table-bordered datatable" id="table-1">
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Fecha solicitud</th>
+            <th>Programa</th>
+            <th>Actividad</th>
+            <th>Oficina Solicitante</th>
+            <th>Item</th>
+            <th>Trabajador</th>
+            <th>Justificativo</th>
+            <th>Visto Bueno</th>
+            <th>En exitencia</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php
+    $n = 0;
+    while($registro = $bd->getFila($registros)) 
+    {
+        echo "<tr>";        
+        
+        echo utf8_encode("
+                <td>$registro[nro_solicitud_material]</td>
+                <td>".date('d-m-Y', strtotime($registro[fecha_solicitud]))."</td>
+                <td>$registro[programa_solicitud_material]</td>
+                <td>$registro[actividad_solicitud_material]</td>
+                <td>$registro[oficina_solicitante]</td>
+                <td>$registro[item_solicitante]</td>
+                <td>$registro[nombre_solicitante]</td>
+                <td>$registro[justificativo]</td>
+                <td>$registro[visto_bueno]</td>");
+            echo $registro[existencia_material] == 'SI' ? "<td><span class='btn btn-success btn-xs'>SI</span></td>" : "<td><span class='btn btn-danger btn-xs'>NO</span></td>";
+            if($registro[estado_solicitud_material]=='SOLICITADO'){
+                echo "<td><span class='btn btn-orange btn-xs'>Solicitado</span></td>";
+            }
+            elseif ($registro[estado_solicitud_material]=='APROBADO') {
+                echo "<td><span class='btn btn-green btn-xs'>Aprobado</span></td>";
+            }
+            elseif ($registro[estado_solicitud_material]=='COMPRADO') {
+                echo "<td><span class='btn btn-blue btn-xs'>Comprado</span></td>";
+            }
+            else{
+                echo "<td><span class='btn btn-cancel btn-xs'>Rechazado</span></td>";
+            }
+            echo "<td>";
+            if($registro[estado_solicitud_material]=='APROBADO' || $registro[estado_solicitud_material]=='COMPRADO'){
+                echo "<a href='?mod=solicitud_material&pag=detalle_material_ampe&id_solicitud_material=$registro[id_solicitud_material]' class='btn btn-info btn-icon view_modal_detail' style='float: right; margin-right: 5px;'>Ver detalle <i class='entypo-eye'></i></a><br>";
+            }
+           echo "</td>";
+           
+    };	
+?>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>No</th>
+            <th>Fecha solicitud</th>
+            <th>Programa</th>
+            <th>Actividad</th>
+            <th>Oficina Solicitante</th>
+            <th>Item</th>
+            <th>Trabajador</th>
+            <th>Justificativo</th>
+            <th>Visto Bueno</th>
+            <th>En existencia</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </tfoot>
+</table>
+
+<script>
+jQuery(document).ready(function($) {
+    jQuery(".view_modal_detail").live("click", function(e) {
+        e.preventDefault();
+        var param = $(this).attr('href');
+        var dir = "modal_index_ajax.php" + param;
+        jQuery('#modal_solicitud_material').modal('show', {
+            backdrop: 'static'
+        });
+        jQuery('#modal_solicitud_material').draggable({
+            handle: ".modal-header"
+        });
+        jQuery("#modal_solicitud_material .modal-body").load(dir, function(res) {
+            if (res) {
+                var titulo = jQuery('#modal_solicitud_material .modal-body h2').html();
+                jQuery('#modal_solicitud_material .modal-body h2').hide();
+                jQuery('#modal_solicitud_material .modal-body br').hide();
+                jQuery('#modal_solicitud_material .modal-title').html(titulo);
+                jQuery('#modal_solicitud_material .modal-body .cancelar').hide();
+            }
+        });
+    });
+
+});
+</script>
+
+<?php
+	$solicitud_material->__destroy();
+?>
