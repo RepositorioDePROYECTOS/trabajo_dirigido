@@ -1,6 +1,7 @@
 <?php
 include("modelo/entrevistas.php");
 
+
 $bd = new Conexion();
 $id_convocatoria = $_GET['id_convocatoria'];
 $id_trabajador = $_GET['id_trabajador'];
@@ -20,6 +21,10 @@ $consulta_entrevistas = $bd->Consulta("SELECT pregunta, respuesta FROM entrevist
 
 <!-- Mostrar detalles de la convocatoria y el trabajador -->
 <h2>Detalles de la Entrevista</h2>
+<p></p>
+<a target="_blank" href="vista/reportes/visor_reporte.php?f=vista/evaluacion/entrevista_pdf.php&id_convocatoria=<?php echo $id_convocatoria; ?>&id_trabajador=<?php echo $id_trabajador; ?>" class="btn btn-info btn-icon" style="float: right; margin-right: 5px;">
+        Generar PDF<i class="entypo-print"></i>
+    </a>
 
 <a href="?mod=evaluacion&pag=form_entrevista&id_convocatoria=<?php echo $id_convocatoria; ?>&id_trabajador=<?php echo $id_trabajador; ?>" 
    class="btn btn-green btn-icon" style="float: right;">
